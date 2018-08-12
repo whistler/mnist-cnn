@@ -1,0 +1,5 @@
+Flask==1.0.2
+pytest-watch==4.2.0
+Keras==2.2.2
+imageio==2.3.0
+click==6.7
